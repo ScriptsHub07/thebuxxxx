@@ -1,0 +1,10 @@
+conta01@gmail.com:senha123
+conta02@gmail.com:abc456
+conta03@gmail.com:qwerty789
+conta04@gmail.com:senhaSegura!
+conta05@gmail.com:teste123
+conta06@gmail.com:banana321
+conta07@gmail.com:senhaForte2024
+conta08@gmail.com:superConta!
+conta09@gmail.com:meuAcesso99
+conta10@gmail.com:senhaX
